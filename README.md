@@ -1,6 +1,6 @@
 # StaffPortal
 
-Fork of TeamAutomod/Automod. I have permission from the lead developer to fork and maintain v1 as v2 is not open source.
+Fork of [TeamAutomod/Automod](https://github.com/TeamAutoMod/AutoMod). I have permission from the lead developer to fork and maintain v1 as v2 is not open source.
 
 THIS MAY NOT TO BE UPTO DATE 100% OF THE TIME. I WILL WORK ON THIS WHEN I HAVE TIME DUE TO MY BUSY SCHEDULE.
 
