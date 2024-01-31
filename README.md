@@ -1,4 +1,9 @@
 # StaffPortal
+
+Fork of TeamAutomod/Automod. I have permission from the lead developer to fork and maintain v1 as v2 is not open source.
+
+THIS MAY NOT TO BE UPTO DATE 100% OF THE TIME. I WILL WORK ON THIS WHEN I HAVE TIME DUE TO MY BUSY SCHEDULE.
+
 StaffPortal is a Discord moderation and utility bot, made for both small and large communities.
 
 ## Features
@@ -15,5 +20,6 @@ StaffPortal is a Discord moderation and utility bot, made for both small and lar
 - Starboard
 - And much, much more
 
-## Self-hosting/Development
-To run a local version, download or fork this repo and create a ``config.json`` folder in the ``automod/src`` folder filling out the required values as shown in the ``config.json.example`` file. You can use your local version on your own servers, but please don't make it public.
+# Contributing
+
+Feel free if you want to help keep this up to date.
