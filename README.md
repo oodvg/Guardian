@@ -1,10 +1,10 @@
-# StaffPortal
+# Guardian
 
 Fork of [TeamAutomod/Automod](https://github.com/TeamAutoMod/AutoMod). I have permission from the lead developer to fork and maintain v1 as v2 is not open source.
 
 THIS MAY NOT TO BE UPTO DATE 100% OF THE TIME. I WILL WORK ON THIS WHEN I HAVE TIME DUE TO MY BUSY SCHEDULE.
 
-StaffPortal is a Discord moderation and utility bot, made for both small and large communities.
+Guardian is a Discord moderation and utility bot, made for both small and large communities.
 
 ## Features
 - Advanced automoderator, with features such as:
