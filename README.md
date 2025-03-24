@@ -1,3 +1,8 @@
+UPDATE AS OF MARCH 23RD, 2025
+
+I realized that i dont have much time trying to carry on v1 legency. And havent had much time in the last year. 
+
+
 # Guardian
 
 Fork of [TeamAutomod/Automod](https://github.com/TeamAutoMod/AutoMod). I have permission from the lead developer to fork and maintain v1 as v2 is not open source.
